@@ -18,13 +18,7 @@ Este projeto existe para uso **pessoal e consciente**: configure apenas substitu
 
 ## O que o script faz hoje
 
-No SIGAA, substitui localmente (exemplos já configurados no script):
-
-| Nome exibido no sistema | Nome mostrado na sua tela |
-|-------------------------|---------------------------|
-| ARTHUR FRANCO DOS SANTOS | FERNANDA CRISTINA FRANCO |
-| KAUE MARTINS FARIAS | KAMI MARTINS FARIAS |
-
+No SIGAA, substitui localmente.
 Para incluir outras pessoas, edite o array `SUBSTITUICOES` no arquivo `seu-nome-ifsc.user.js`:
 
 ```javascript
